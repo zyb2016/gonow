@@ -1,0 +1,2 @@
+# gonow
+godemo-gomod
